@@ -7,8 +7,11 @@
 **Technologies used:**
 
 ✔️HTML
+<br>
 ✔️CSS
+<br>
 ✔️javaScript
+<br>
 
 **Tools:**
 
