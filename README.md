@@ -1,7 +1,17 @@
-<h1 align=center> Pepsi Landing Page 🥤</h1>
+<h1 align=center> Expanding Cards 🖼</h1>
 
-This is an exercice taken from the site: [Creative Landing Page Design using Html CSS & Javascript](https://www.youtube.com/watch?v=s_z5laE4KTw&t=1s "Creative Landing Page Design using Html CSS & Javascript")
+**This is the day 1** and this project is about a expanding cards.
 
-> [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog "Online Tutorials") > <br>Youtube Channel
+**Technologies used:**
 
-You can see the page deployment here: https://andres-condezo.github.io/Pepsi/
+- HTML
+- CSS
+- javaScript
+
+**Tools:**
+
+- Neo Vim
+
+> "50 Projects In 50 Days"
+
+You can see a live preview here: https://andres-condezo.github.io/cards/
