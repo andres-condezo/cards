@@ -1,5 +1,7 @@
 <h1 align=center> Expanding Cards 🖼</h1>
 
+<img src="./img/preview.png">
+
 **This is the day 1** and this project is about a expanding cards.
 
 **Technologies used:**
