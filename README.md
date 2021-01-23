@@ -6,9 +6,9 @@
 
 **Technologies used:**
 
-- HTML
-- CSS
-- javaScript
+✔️HTML
+✔️CSS
+✔️javaScript
 
 **Tools:**
 
